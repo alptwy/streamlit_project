@@ -1,0 +1,123 @@
+{
+    "Fight-Do": {
+      "name": "Fight-Do",
+      "category": "Wellness & Fitness",
+      "intensity": "High",
+      "type": "S",
+      "duration": "45-60 min",
+      "rating": 4.5,
+      "skills_covered": ["Cardio", "Strength", "Coordination"],
+      "description": "Fight-Do is a high-energy group fitness workout that combines elements of martial arts, boxing, and aerobic exercises. It improves cardiovascular fitness, strength, and coordination.",
+      "calories_burned": 500
+    },
+    "Yoga": {
+      "name": "Yoga",
+      "category": "Wellness & Fitness",
+      "intensity": "Low",
+      "type": "SBF",
+      "duration": "45-60 min",
+      "rating": 4.7,
+      "skills_covered": ["Strength", "Balance", "Flexibility"],
+      "description": "Yoga blends stretching and strengthening through elegant poses, enhancing physical strength, flexibility, and nurturing a sense of balance and serenity.",
+      "calories_burned": 200
+    },
+    "Line Dance": {
+      "name": "Line Dance",
+      "category": "Dance",
+      "intensity": "Low",
+      "type": "SB",
+      "duration": "30-45 min",
+      "rating": 4.4,
+      "skills_covered": ["Cardio", "Coordination", "Balance"],
+      "description": "Line dance is a choreographed group dance where participants perform a sequence of steps in a synchronized manner. It promotes coordination and provides a fun way to stay active.",
+      "calories_burned": 250
+    },
+    "Active Family": {
+      "name": "Active Family",
+      "category": "Family Wellness",
+      "intensity": "Low",
+      "type": "B",
+      "duration": "60 min",
+      "rating": 4.6,
+      "skills_covered": ["Family Bonding", "Physical Activity", "Balance"],
+      "description": "Active Family promotes physical activity and healthy lifestyle habits among all family members, encouraging exercise and active play together.",
+      "calories_burned": 150
+    },
+    "Salsation": {
+      "name": "Salsation",
+      "category": "Dance",
+      "intensity": "Moderate",
+      "type": "A",
+      "duration": "45 min",
+      "rating": 4.5,
+      "skills_covered": ["Dance", "Cardio", "Musicality"],
+      "description": "Salsation is a dance fitness program that blends functional training protocols with dance moves, emphasizing musicality, lyrical expression, and the body's natural movement.",
+      "calories_burned": 400
+    },
+    "K-Kardio": {
+      "name": "K-Kardio",
+      "category": "Dance Fitness",
+      "intensity": "Moderate",
+      "type": "A",
+      "duration": "45 min",
+      "rating": 4.4,
+      "skills_covered": ["Cardio", "Dance", "Aerobics"],
+      "description": "K-Kardio Dance is a Kpop workout program that combines Kpop MTV moves with cardio elements, providing an easy and fun way to stay fit.",
+      "calories_burned": 350
+    },
+    "KpopX Fitness": {
+      "name": "KpopX Fitness",
+      "category": "Dance Fitness",
+      "intensity": "Moderate",
+      "type": "A",
+      "duration": "45 min",
+      "rating": 4.6,
+      "skills_covered": ["Dance", "Aerobics", "Body Toning"],
+      "description": "KpopX Fitness combines Kpop dance moves with aerobic and body toning exercises for an engaging fitness experience, enhancing physical fitness and fun.",
+      "calories_burned": 400
+    },
+    "Zumba": {
+      "name": "Zumba",
+      "category": "Dance Fitness",
+      "intensity": "Moderate",
+      "type": "A",
+      "duration": "60 min",
+      "rating": 4.8,
+      "skills_covered": ["Cardio", "Muscle Conditioning", "Balance"],
+      "description": "Zumba combines low and mid-intensity dance moves in an interval-style, calorie-burning workout inspired by various dance styles like salsa, hip-hop, and mambo.",
+      "calories_burned": 450
+    },
+    "Piloxing": {
+      "name": "Piloxing",
+      "category": "Fitness",
+      "intensity": "Moderate",
+      "type": "AS",
+      "duration": "45 min",
+      "rating": 4.6,
+      "skills_covered": ["Cardio", "Balance", "Strength"],
+      "description": "Piloxing is a fusion of boxing and standing Pilates, combining cardiovascular training, balance, and muscle strengthening.",
+      "calories_burned": 400
+    },
+    "Kickboxing": {
+      "name": "Kickboxing",
+      "category": "Martial Arts",
+      "intensity": "Moderate",
+      "type": "SA",
+      "duration": "45 min",
+      "rating": 4.7,
+      "skills_covered": ["Cardio", "Strength", "Agility"],
+      "description": "Kickboxing is a martial art that combines elements of boxing with kicks, providing a full-body workout that improves strength, endurance, and coordination.",
+      "calories_burned": 500
+    },
+    "Quick HIIT": {
+      "name": "Quick HIIT",
+      "category": "High-Intensity Workout",
+      "intensity": "High",
+      "type": "SA",
+      "duration": "15-20 min",
+      "rating": 4.5,
+      "skills_covered": ["Cardio", "Strength", "Endurance"],
+      "description": "Quick HIIT offers the benefits of traditional HIIT in a shorter time frame, alternating between high-intensity activity and rest to provide an effective, full-body workout.",
+      "calories_burned": 300
+    }
+  }

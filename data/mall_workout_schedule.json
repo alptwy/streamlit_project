@@ -1,0 +1,555 @@
+[
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "AMK Hub\",",
+        "Venue Unit": "Level 1 Main Entrance\",",
+        "Days": "Every Tuesday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Anchorpoint\",",
+        "Venue Unit": "Open Plaza (next to Xin Wang Hong Kong Cafe)\",",
+        "Days": "Every 1st, 3rd and 5th Wednesday of the month\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Anchorpoint\",",
+        "Venue Unit": "Open Plaza (next to Xin Wang Hong Kong Cafe)\",",
+        "Days": "Every 2nd & 4th Wednesday of the month\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Buangkok Square\",",
+        "Venue Unit": "Level 1 Community Plaza\",",
+        "Days": "Every Monday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Buangkok Square\",",
+        "Venue Unit": "Level 1 Community Plaza\",",
+        "Days": "Every Sunday\",",
+        "Time": "5pm to 6pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "Bukit Panjang Plaza\",",
+        "Venue Unit": "Garden Plaza Level 4\",",
+        "Days": "Every 1st, 3rd & 5th Sunday of the month\",",
+        "Time": "10am to 11am"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Bukit Panjang Plaza\",",
+        "Venue Unit": "Garden Plaza Level 4\",",
+        "Days": "Every 2nd & 4th Sunday of the month\",",
+        "Time": "10am to 11am"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Canberra Plaza\",",
+        "Venue Unit": "Community Plaza\",",
+        "Days": "Every Monday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Century Square\",",
+        "Venue Unit": "Rooftop space at Level 5\",",
+        "Days": "Every Tuesday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Changi City Point\",",
+        "Venue Unit": "Level 1 Open Plaza\",",
+        "Days": "Every Saturday\",",
+        "Time": "9.30am to 10.30am"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Compass One\",",
+        "Venue Unit": "Outside area outside MOS Burger\",",
+        "Days": "Every Thursday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Downtown East\",",
+        "Venue Unit": "Begonia Terrace\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Downtown East\",",
+        "Venue Unit": "Begonia Terrace\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Eastpoint Mall\",",
+        "Venue Unit": "Level 6 Playground\",",
+        "Days": "Every Thursday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Hillion Mall\",",
+        "Venue Unit": "MRT Plaza (near the MRT entrance)\",",
+        "Days": "Every Thursday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Hillion Mall\",",
+        "Venue Unit": "MRT Plaza (near the MRT entrance)\",",
+        "Days": "Every Tuesday and Wednesday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Hougang Mall\",",
+        "Venue Unit": "Level 5 Rooftop Terrace\",",
+        "Days": "Every 1st, 3rd & 5th Saturday of the month\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Hougang Mall\",",
+        "Venue Unit": "Level 5 Rooftop Terrace\",",
+        "Days": "Every 2nd & 4th Saturday of the month\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "K-Kardio\",",
+        "Venue": "IMM\",",
+        "Venue Unit": "Garden Plaza at Level 3\",",
+        "Days": "Every Monday\",",
+        "Time": "7.15pm to 8.15pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Junction 8\",",
+        "Venue Unit": "Level 3 Roof Garden\",",
+        "Days": "Every Monday and Wednesday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Junction 8\",",
+        "Venue Unit": "Level 3 Roof Garden\",",
+        "Days": "Every Saturday and Sunday\",",
+        "Time": "9am to 10am"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Jurong Point Shopping Centre\",",
+        "Venue Unit": "Sheltered space outside UOB\",",
+        "Days": "Every 1st, 3rd & 5th Sunday of the month\",",
+        "Time": "8.30am to 9.30am"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Jurong Point Shopping Centre\",",
+        "Venue Unit": "Sheltered space outside UOB\",",
+        "Days": "Every 2nd & 4th Sunday of the month\",",
+        "Time": "8.30am to 9.30am"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Lot One Shoppers' Mall\",",
+        "Venue Unit": "Level 5 Roof Garden\",",
+        "Days": "Every Thursday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Active Family\",",
+        "Venue": "Northshore Plaza\",",
+        "Venue Unit": "Community Plaza\",",
+        "Days": "Every Friday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Oasis Terraces\",",
+        "Venue Unit": "Level 1 Community Plaza\",",
+        "Days": "Every Sunday\",",
+        "Time": "8.30am to 9.30am"
+    },
+    {
+        "Activity": "Vinyasa Yoga (HWE)\",",
+        "Venue": "Paya Lebar Quarter Mall\",",
+        "Venue Unit": "Paya Lebar Quarter Parkside\",",
+        "Days": "Every Wednesday\",",
+        "Time": "8.15am to 9am"
+    },
+    {
+        "Activity": "Yoga at ST3PS (HWE)\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 3 Basement 2\",",
+        "Days": "Every Friday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Fight-Do (HWE)\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 2\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "Waterway Point\",",
+        "Venue Unit": "The Cove @ B2\",",
+        "Days": "Every Thursday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Zhongshan Mall\",",
+        "Venue Unit": "Zhongshan Park (near Balestier Rd)\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Line Dance (HWE)\",",
+        "Venue": "Kinex\",",
+        "Venue Unit": "Level 1 Atrium\",",
+        "Days": "Every Thursday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Salsation\",",
+        "Venue": "Lot One Shoppers' Mall\",",
+        "Venue Unit": "Level 5 Roof Garden\",",
+        "Days": "Every Monday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Northshore Plaza\",",
+        "Venue Unit": "Community Plaza\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Parkway Parade\",",
+        "Venue Unit": "Outdoor Plaza (outside Ya Kun)\",",
+        "Days": "Every Saturday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Punggol Plaza\",",
+        "Venue Unit": "B1 Outdoor Plaza\",",
+        "Days": "Every Sunday\",",
+        "Time": "9am to 10am"
+    },
+    {
+        "Activity": "Yoga (HWE)\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 2\",",
+        "Days": "Every Wednesday\",",
+        "Time": "1pm to 1.45pm"
+    },
+    {
+        "Activity": "KpopX Fitness (HWE)\",",
+        "Venue": "SingPost Centre\",",
+        "Venue Unit": "Sheltered area beside Hopii Mung bean Smoothie\",",
+        "Days": "Every Thursday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Hip Hop Fitness (HWE)\",",
+        "Venue": "Suntec City\",",
+        "Venue Unit": "Suntec Singapore Convention Centre\",",
+        "Days": "Every Monday\",",
+        "Time": "5.45pm to 6.45pm"
+    },
+    {
+        "Activity": "Hip Hop Fitness (HWE)\",",
+        "Venue": "Suntec City\",",
+        "Venue Unit": "Suntec Singapore Convention Centre\",",
+        "Days": "Every Monday\",",
+        "Time": "7.15pm to 8.15pm"
+    },
+    {
+        "Activity": "KpopX Fitness (HWE)\",",
+        "Venue": "Suntec City\",",
+        "Venue Unit": "Suntec City\",",
+        "Days": "Every Thursday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "KpopX Fitness (HWE)\",",
+        "Venue": "Suntec City\",",
+        "Venue Unit": "Suntec City\",",
+        "Days": "Every Thursday\",",
+        "Time": "7.15pm to 8.15pm"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Tampines 1\",",
+        "Venue Unit": "Rooftop\",",
+        "Days": "Every Thursday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "Tampines Mall\",",
+        "Venue Unit": "Open Plaza, Level 4\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "The Poiz Centre\",",
+        "Venue Unit": "Entrance in front of Potong Pasir MRT\",",
+        "Days": "Every Monday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "The Star Vista\",",
+        "Venue Unit": "Gallery Level 3\",",
+        "Days": "Every Monday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Tiong Bahru Plaza\",",
+        "Venue Unit": "Level 1 outdoor area (outside UOB)\",",
+        "Days": "Every 1st, 3rd & 5th Thursday of the month\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "KpopX Fitness\",",
+        "Venue": "Tiong Bahru Plaza\",",
+        "Venue Unit": "Level 1 outdoor area (outside UOB)\",",
+        "Days": "Every 2nd & 4th Thursday of the month\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Zumba (HWE)\",",
+        "Venue": "United Square\",",
+        "Venue Unit": "Level 1 Outdoor Plaza\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Cardio Dance Fitness (HWE)\",",
+        "Venue": "United Square\",",
+        "Venue Unit": "Level 1 Outdoor Plaza\",",
+        "Days": "Every Thursday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Velocity @ Novena Square\",",
+        "Venue Unit": "Outdoor Court, Level 1\",",
+        "Days": "Every 1st Wednesday of the month\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Fight-Do\",",
+        "Venue": "Velocity @ Novena Square\",",
+        "Venue Unit": "Outdoor Court, Level 1\",",
+        "Days": "Every 2nd Wednesday of the month\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "White Sands\",",
+        "Venue Unit": "Level 1, Open space outside KFC\",",
+        "Days": "Every Saturday\",",
+        "Time": "9am to 10am"
+    },
+    {
+        "Activity": "Active Family\",",
+        "Venue": "IMM\",",
+        "Venue Unit": "Garden Plaza at Level 3\",",
+        "Days": "Every Sunday\",",
+        "Time": "10.30am to 11.30am"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "IMM\",",
+        "Venue Unit": "Garden Plaza at Level 3\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Kampung Admiralty\",",
+        "Venue Unit": "Open Plaza in front of stage (Zone B)\",",
+        "Days": "Every Thursday and Friday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Kampung Admiralty\",",
+        "Venue Unit": "Open Plaza in front of stage (Zone B)\",",
+        "Days": "Every Saturday and Sunday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Active Family\",",
+        "Venue": "Northshore Plaza\",",
+        "Venue Unit": "Community Plaza\",",
+        "Days": "Every Friday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 3 Basement 2\",",
+        "Days": "Every Friday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Fight-Do (HWE)\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 2\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Yoga (HWE)\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 2\",",
+        "Days": "Every Wednesday\",",
+        "Time": "1pm to 1.45pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Sun Plaza\",",
+        "Venue Unit": "Outdoor area at entrance opposite to MRT\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "United Square\",",
+        "Venue Unit": "Level 1 Outdoor Plaza\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Cardio Dance Fitness (HWE)\",",
+        "Venue": "United Square\",",
+        "Venue Unit": "Level 1 Outdoor Plaza\",",
+        "Days": "Every Thursday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Velocity @ Novena Square\",",
+        "Venue Unit": "Outdoor Court, Level 1\",",
+        "Days": "Every 1st Wednesday of the month\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Fight-Do\",",
+        "Venue": "Velocity @ Novena Square\",",
+        "Venue Unit": "Outdoor Court, Level 1\",",
+        "Days": "Every 2nd Wednesday of the month\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "Waterway Point\",",
+        "Venue Unit": "The Cove @ B2\",",
+        "Days": "Every Thursday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "White Sands\",",
+        "Venue Unit": "Level 1, Open space outside KFC\",",
+        "Days": "Every Saturday\",",
+        "Time": "9am to 10am"
+    },
+    {
+        "Activity": "Zumba\",",
+        "Venue": "Zhongshan Mall\",",
+        "Venue Unit": "Zhongshan Park (near Balestier Rd)\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Kampung Admiralty\",",
+        "Venue Unit": "Open Plaza in front of stage (Zone B)\",",
+        "Days": "Every Saturday and Sunday\",",
+        "Time": "6pm to 7pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "IMM\",",
+        "Venue Unit": "Garden Plaza at Level 3\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Junction 8\",",
+        "Venue Unit": "Level 3 Roof Garden\",",
+        "Days": "Every Saturday and Sunday\",",
+        "Time": "9am to 10am"
+    },
+    {
+        "Activity": "Piloxing\",",
+        "Venue": "Downtown East\",",
+        "Venue Unit": "Begonia Terrace\",",
+        "Days": "Every Wednesday\",",
+        "Time": "7pm to 8pm"
+    },
+    {
+        "Activity": "Quick HIIT\",",
+        "Venue": "Downtown East\",",
+        "Venue Unit": "Begonia Terrace\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Zumba (HWE)\",",
+        "Venue": "Kinex\",",
+        "Venue Unit": "Level 1 Atrium\",",
+        "Days": "Every Monday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "KpopX Fitness (HWE)\",",
+        "Venue": "Kinex\",",
+        "Venue Unit": "Level 1 Atrium\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Fight-Do (HWE)\",",
+        "Venue": "Singapore Changi Airport\",",
+        "Venue Unit": "Terminal 2\",",
+        "Days": "Every Tuesday\",",
+        "Time": "6.30pm to 7.30pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "The Star Vista\",",
+        "Venue Unit": "Gallery Level 3\",",
+        "Days": "Every Monday\",",
+        "Time": "7.30pm to 8.30pm"
+    },
+    {
+        "Activity": "Kickboxing\",",
+        "Venue": "Waterway Point\",",
+        "Venue Unit": "The Cove @ B2\",",
+        "Days": "Every Thursday\",",
+        "Time": "7.30pm to 8.30pm"
+    }
+]
