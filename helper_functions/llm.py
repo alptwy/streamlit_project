@@ -7,7 +7,7 @@ import tiktoken
 
 if load_dotenv('.env'):
     # for local development
-     OPEN_KEY = os.getenv('OPENAI_API_KEY')
+     OPENAI_KEY = os.getenv('OPENAI_API_KEY')
 else:
     OPENAI_KEY = st.secrets['OPENAI_API_KEY']
 
