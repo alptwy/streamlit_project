@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env
+
 # Distribution / packaging
 build/
 dist/
@@ -12,3 +19,6 @@ dist/
 .vscode/
 # PyCharm
 .idea/
+
+# Streamlit
+.streamlit/secrets.toml
