@@ -6,7 +6,7 @@ from openai import OpenAI
 import tiktoken
 
 # Pass the API Key to the OpenAI Client
-client = OpenAI(api_key = st.secrets.OPENAI_API_KEY)
+client = OpenAI(api_key=os.st.secrets.OPENAI_API_KEY)
 
 def get_embedding(input, model='text-embedding-3-small'):
     response = client.embeddings.create(
