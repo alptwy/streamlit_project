@@ -25,8 +25,8 @@ def identify_category_and_courses(user_message):
     delimiter = "####"
 
     system_message = f"""
-    You will be provided with customer service queries. \
-    The customer service query will be enclosed in
+  You will be provided with health consicious individual queries. \
+    The health consicious individual query will be enclosed in
     the pair of {delimiter}.
 
     Decide if the query is relevant to any specific courses
@@ -74,8 +74,8 @@ def generate_response_based_on_course_details(user_message, product_details):
     delimiter = "####"
 
     system_message = f"""
-    Follow these steps to answer the customer queries.
-    The customer query will be delimited with a pair {delimiter}.
+    Follow these steps to answer the health conscious individual queries.
+    The health conscious individual query will be delimited with a pair {delimiter}.
 
     Step 1:{delimiter} If the user is asking about course, \
     understand the relevant course(s) from the following list.
@@ -83,16 +83,17 @@ def generate_response_based_on_course_details(user_message, product_details):
     {product_details}
 
     Step 2:{delimiter} Use the information about the course to \
-    generate the answer for the customer's query.
-    You must only rely on the facts or information in the course information.
+    generate the answer for the health conscious individual's query.
+    You should primarily rely on the facts or information in the course information but can add on additional non-numbered information.
     Your response should be as detail as possible and \
-    include information that is useful for customer to better understand the course.
+    include information that is useful for individual to better understand and appreciate the course.
+    If the health conscious individual is unsure about which course to take, you may provide suggestions.
 
-    Step 3:{delimiter}: Answer the customer in a friendly tone.
+    Step 3:{delimiter}: Answer the individual in a friendly and professional tone.
     Make sure the statements are factually accurate.
     Your response should be comprehensive and informative to help the \
     the customers to make their decision.
-    Complete with details such rating, pricing, and skills to be learnt.
+    Complete with details such rating, time, and skills to be learnt.
     Use Neural Linguistic Programming to construct your response.
 
     Use the following format:
@@ -122,7 +123,7 @@ def process_user_message(user_input):
     category_n_course_name = identify_category_and_courses(user_input)
     print("category_n_course_name : ", category_n_course_name)
 
-    # Process 2: Get the Course Details
+    # Process 2: Get the Course and Exercises Details
     course_details = get_course_details(category_n_course_name)
 
     # Process 3: Generate Response based on Course Details
